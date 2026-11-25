@@ -1,0 +1,14 @@
+# OS Junk Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor & IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment & Logs
+.env
+*.log
